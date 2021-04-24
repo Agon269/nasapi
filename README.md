@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Deployed on Netlify](https://nasapi-usage.netlify.app/){:target="_blank"}
+[Deployed on Netlify](https://nasapi-usage.netlify.app/)
 
 ## Built using
 
