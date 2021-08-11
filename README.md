@@ -12,7 +12,7 @@ A website thate utilizes Nasa's public API to display some fun data.
 ![App Screenshot](https://res.cloudinary.com/dvfihlcxd/image/upload/v1628446304/screencapture-nasapi-usage-netlify-app-2021-08-09-01_58_57_j6sset.png)
 
   
-![Logo](https://res.cloudinary.com/dvfihlcxd/image/upload/v1618995170/58429400a6515b1e0ad75acc_logs77.png)
+![Logo](https://res.cloudinary.com/dvfihlcxd/image/upload/c_scale,w_109/v1618995170/58429400a6515b1e0ad75acc_logs77.png)
 
     
 ## Features
