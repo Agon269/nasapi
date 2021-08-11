@@ -1,42 +1,48 @@
-# A react app that utilizes public Nasa api
 
+# Nasa API Usage
+
+A website thate utilizes Nasa's public API to display some fun data.
 ## Demo
 
-[Deployed on Netlify](https://nasapi-usage.netlify.app/)
+[Live](https://nasapi-usage.netlify.app/)
 
-## Built using
+  
+## Screenshots
 
-#### Front-end
+![App Screenshot](https://res.cloudinary.com/dvfihlcxd/image/upload/v1628446304/screencapture-nasapi-usage-netlify-app-2021-08-09-01_58_57_j6sset.png)
 
-- [ReactJS](https://reactjs.org/) - Frontend framework
-- [Tailwindcss](https://tailwindcss.com/) - A utility first css library
+  
+![Logo](https://res.cloudinary.com/dvfihlcxd/image/upload/v1618995170/58429400a6515b1e0ad75acc_logs77.png)
 
-#### Back-end
-
-- [Nasa api](https://api.nasa.gov/) - A publice nasa api
-
+    
 ## Features
 
+
 - Landing page displays the daily picure or videos.
-- Find satellite images by inputing latitude and longitude or using your browser location.
+- Landing page displays the daily picure or videos.
 - Find near earth obecjts with in a given date, details about the objects as well.
 - Weather on mars check what the weather in mars is like.
 
-## Usage
+  
+## Tech Stack
 
-#### Env variable:
+**Client:** React, TailwindCss
+
+**Server:**  [Nasa public api](https://api.nasa.gov/)
+
+  
+## Installation
+
+Clone repository
 
 Create .env file in the root directory and add the following:
 
 ```
 REACT_APP_NASA_API_KEY=yourapikey
-```
-
-#### Run:
-
-Clone repository
 
 ```
+Run:
+```cmd
 npm install
 npm run buid:css
 npm start
